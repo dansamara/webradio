@@ -1,0 +1,10 @@
+[playlist]
+NumberOfEntries=2
+File1=http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lc1_radio3_p?s=1583084350&e=1583098750&h=07c9b9b18498b90ef69facfe6fe7fc20
+Title1=BBC_radio3
+Length1=-1
+File2=http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lc1_radio3_q?s=1583084350&e=1583098750&h=0857f3f94175e266b7f22e0bb051b1f7
+Title2=BBC_Radio3
+Length2=-1
+voice_text=BBC%20Radio%203
+voice_lang=en

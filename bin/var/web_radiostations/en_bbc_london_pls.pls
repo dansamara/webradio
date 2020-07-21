@@ -1,0 +1,10 @@
+[playlist]
+NumberOfEntries=2
+File1=http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p?s=1583085679&e=1583100079&h=eb333b659c1d5d5bc2e0d765e210217c
+Title1=BBC_London
+Length1=-1
+File2=http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_q?s=1583085679&e=1583100079&h=c38abcc15cb67978137691f063152194
+Title2=BBC_London
+Length2=-1
+voice_text=BBC%20London
+voice_lang=en
